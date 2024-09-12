@@ -1,4 +1,4 @@
-// {Pauline Joy Bautista}: {Capre diem. Sieze the day, boys. Make your lives extraordinary. -Dead Poets Society}
+// {Pauline Joy Bautista}: {Carpe diem. Sieze the day, boys. Make your lives extraordinary. -Dead Poets Society}
 
 import 'package:flutter/material.dart';
 
