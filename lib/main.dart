@@ -1,5 +1,4 @@
 // {Pauline Joy Bautista}: {Carpe diem. Sieze the day, boys. Make your lives extraordinary. -Dead Poets Society}
-// {Jill Navarra}: {"Which would you choose: forget all those good memories or remember all those pain?" -JAYN}
 
 import 'package:flutter/material.dart';
 
